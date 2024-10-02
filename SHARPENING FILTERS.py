@@ -1,3 +1,6 @@
+#Developed By : DIVYA.A
+#Register Number: 212222230034
+
 ###Sharpening Filters
 # In[4]: Using Laplacian Kernal
 
